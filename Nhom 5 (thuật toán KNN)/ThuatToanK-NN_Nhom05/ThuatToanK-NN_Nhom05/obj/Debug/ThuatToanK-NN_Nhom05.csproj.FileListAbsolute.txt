@@ -1,0 +1,9 @@
+E:\TTNT_Nhóm05\Nhom5_Thuật toán K-NN\ThuatToanK-NN_Nhom05\ThuatToanK-NN_Nhom05\obj\Debug\ThuatToanK-NN_Nhom05.csproj.AssemblyReference.cache
+E:\TTNT_Nhóm05\Nhom5_Thuật toán K-NN\ThuatToanK-NN_Nhom05\ThuatToanK-NN_Nhom05\obj\Debug\ThuatToanK-NN_Nhom05.csproj.CoreCompileInputs.cache
+E:\TTNT_Nhóm05\Nhom5_Thuật toán K-NN\ThuatToanK-NN_Nhom05\ThuatToanK-NN_Nhom05\bin\Debug\ThuatToanK-NN_Nhom05.exe.config
+E:\TTNT_Nhóm05\Nhom5_Thuật toán K-NN\ThuatToanK-NN_Nhom05\ThuatToanK-NN_Nhom05\bin\Debug\ThuatToanK-NN_Nhom05.exe
+E:\TTNT_Nhóm05\Nhom5_Thuật toán K-NN\ThuatToanK-NN_Nhom05\ThuatToanK-NN_Nhom05\bin\Debug\ThuatToanK-NN_Nhom05.pdb
+E:\TTNT_Nhóm05\Nhom5_Thuật toán K-NN\ThuatToanK-NN_Nhom05\ThuatToanK-NN_Nhom05\obj\Debug\ThuatToanK-NN_Nhom05.exe
+E:\TTNT_Nhóm05\Nhom5_Thuật toán K-NN\ThuatToanK-NN_Nhom05\ThuatToanK-NN_Nhom05\obj\Debug\ThuatToanK-NN_Nhom05.pdb
+E:\TTNT_Nhóm05\Nhom5_Thuật toán K-NN\ThuatToanK-NN_Nhom05\ThuatToanK-NN_Nhom05\bin\Debug\Data.txt
+E:\TTNT_Nhóm05\Nhom5_Thuật toán K-NN\ThuatToanK-NN_Nhom05\ThuatToanK-NN_Nhom05\bin\Debug\Small_Data.txt

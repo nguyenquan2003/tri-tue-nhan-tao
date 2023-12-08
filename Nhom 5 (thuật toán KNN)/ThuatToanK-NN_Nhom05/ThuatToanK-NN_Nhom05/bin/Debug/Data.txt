@@ -1,0 +1,101 @@
+﻿50
+1,2.3
+Lop Do
+1.8,2
+Lop Xanh
+5.3,5
+Lop Vang
+5,3
+Lop Do
+4.5,10
+Lop Xanh
+9,3.5
+Lop Vang
+1,2.3
+Lop Do
+5.3,5
+Lop Xanh
+2.5,7
+Lop Vang
+2.3,5
+Lop Do
+9.8,10
+Lop Xanh
+6.5,7
+Lop Vang
+5,9
+Lop Do
+6.3,1
+Lop Xanh
+5.6, 1.2
+Lop Vang
+6,2.4
+Lop Do
+5.2,4
+Lop Xanh
+9.2,10
+Lop Vang
+2,4.1
+Lop Do
+6.4,3.5
+Lop Xanh
+3.4,6.2
+Lop Vang
+6.2,8
+Lop Do
+7.3,6
+Lop Xanh
+10,3.5
+Lop Vang
+8.3,5
+Lop Do
+1.2,3.4
+Lop Xanh
+5.9,4.1
+Lop Vang
+7.3,5
+Lop Do
+6,3.4
+Lop Xanh
+3.2, 8
+Lop Vang
+7.6,8
+Lop Do
+7.6,5
+Lop Xanh
+5.4,7
+Lop Vang
+4.9,3
+Lop Do
+1.8,3.6
+Lop Xanh
+6.4, 3.9
+Lop Vang
+5.9,8
+Lop Do
+5,6
+Lop Xanh
+2.5, 4.8
+Lop Vang
+7,8.3
+Lop Do
+7.8,9
+Lop Xanh
+1.9, 5.6
+Lop Vang
+9,10.2
+Lop Do
+10, 5.2
+Lop Xanh
+2.3, 8.7
+Lop Vang
+2.8,1
+Lop Do
+6.8,5
+Lop Xanh
+7.3, 9.6
+Lop Vang
+6.5,3
+Lop Do
+4,8
+Lop Xanh
