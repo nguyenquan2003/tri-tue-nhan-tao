@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="baitoantamgiac.exe" version="1.0.0.0" publicKeyToken="38944f2c64e77e69" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="baitoantamgiac" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="baitoantamgiac.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="baitoantamgiac.exe" size="517032">
+      <assemblyIdentity name="baitoantamgiac" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>OjCB0X8iAt1IyEWJnJhl/bLVV9OkQzO8grWmEGAosqk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="baitoantamgiac.exe.config" size="184">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>FihlZtVNgcNyH37Pf0Jtll3jZOm+L55ijXNjtoS2/mo=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=ADMIN\Admin" issuerKeyHash="06b8c194af09ade7b46efd86d439bd9ca23acd9a" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>eS2+VMNf+l0rw7TInwiLVeIB9rhO5h9/QWeTqTeV0bo=</DigestValue></Reference></SignedInfo><SignatureValue>VowKs0Gj9uN0JpyG0QHMz8u4jrcuYnKp2wfdlMTHNRM1/3IM+xBDeidyYq6OKO0Cljdo+rNRposytWGT2liWo8DtppFYQNa0kJ5JwUH7R2oH24hdAFPQywz66AeQke+634CMr2r/uioxK9j9TUhIBHa1BzCDCi1fLp8olkFWoHU=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>0WWaONs3yj+G7Ee03+M48zueY1aVCahxLCVj5M5oioGxcjjpdgzMMtXCAqVetQW+07jbWiWk51Py2b0umWN6BeYrIzgwj3SqPAewR9DshciEjWbq3zXrs5ymR81bCCs+BrUYTTdb4/Mj2dTEgKq7MCPU0KlbVhfQ6tjR2K0LKME=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="bad19537a99367417f1fe64eb8f601e2558b089fc8b4c32b5dfa5fc354be2d79" Description="" Url=""><as:assemblyIdentity name="baitoantamgiac.exe" version="1.0.0.0" publicKeyToken="38944f2c64e77e69" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=ADMIN\Admin</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>OZuGJVsjZqwk9Jt91UjuYKyUj2FSXVM68uELRXNeXgc=</DigestValue></Reference></SignedInfo><SignatureValue>QpCOTEDbo+NI1gNyjXuL7/mxJKi+sql4UeUBw04i0c0XpcAYXdwDKDq15L9MlBrJLsNfjv9p5/GuT4Yg7nGVG/571iNLaJ7fe7RLRLNXmjpfl7RAIEDjWgFPwp8JFgluLKmHAp35bFblNZI+gA+16pS6OIqWucyxNYrSyq6DyLM=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>0WWaONs3yj+G7Ee03+M48zueY1aVCahxLCVj5M5oioGxcjjpdgzMMtXCAqVetQW+07jbWiWk51Py2b0umWN6BeYrIzgwj3SqPAewR9DshciEjWbq3zXrs5ymR81bCCs+BrUYTTdb4/Mj2dTEgKq7MCPU0KlbVhfQ6tjR2K0LKME=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBxTCCAS6gAwIBAgIQMxDuY30VR51GNwU/LDNSJTANBgkqhkiG9w0BAQsFADAhMR8wHQYDVQQDHhYAQQBEAE0ASQBOAFwAQQBkAG0AaQBuMB4XDTIzMTIwMzA1MjcxMFoXDTI0MTIwMjExMjcxMFowITEfMB0GA1UEAx4WAEEARABNAEkATgBcAEEAZABtAGkAbjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA0WWaONs3yj+G7Ee03+M48zueY1aVCahxLCVj5M5oioGxcjjpdgzMMtXCAqVetQW+07jbWiWk51Py2b0umWN6BeYrIzgwj3SqPAewR9DshciEjWbq3zXrs5ymR81bCCs+BrUYTTdb4/Mj2dTEgKq7MCPU0KlbVhfQ6tjR2K0LKMECAwEAATANBgkqhkiG9w0BAQsFAAOBgQBdzu6OoRDr7P+pTbUJSPTDI4PMs761NxMmMIRV2NaJ4jh2zXxuKst02xImpYFoyTNwQs6McIQ3D6EhQyJu9CDK5nWqCV7feI9yuA/8bcM6EzsJBNucYOGhmzdPCmnP9z43sfnYZQ38SS9lXEANSa/fzE5+F0mEUHMGv6ZoZZadZA==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

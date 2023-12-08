@@ -1,0 +1,66 @@
+D:\baitoantamgiac\baitoantamgiac\bin\Debug\baitoantamgiac.exe.config
+D:\baitoantamgiac\baitoantamgiac\bin\Debug\baitoantamgiac.exe
+D:\baitoantamgiac\baitoantamgiac\bin\Debug\baitoantamgiac.pdb
+D:\baitoantamgiac\baitoantamgiac\obj\Debug\baitoantamgiac.csprojResolveAssemblyReference.cache
+D:\baitoantamgiac\baitoantamgiac\obj\Debug\baitoantamgiac.Form1.resources
+D:\baitoantamgiac\baitoantamgiac\obj\Debug\baitoantamgiac.Properties.Resources.resources
+D:\baitoantamgiac\baitoantamgiac\obj\Debug\baitoantamgiac.csproj.GenerateResource.Cache
+D:\baitoantamgiac\baitoantamgiac\obj\Debug\baitoantamgiac.exe
+D:\baitoantamgiac\baitoantamgiac\obj\Debug\baitoantamgiac.pdb
+D:\bài tập\baitoantamgiac\baitoantamgiac\bin\Debug\baitoantamgiac.exe.config
+D:\bài tập\baitoantamgiac\baitoantamgiac\obj\Debug\baitoantamgiac.exe
+D:\bài tập\baitoantamgiac\baitoantamgiac\obj\Debug\baitoantamgiac.pdb
+D:\bài tập\baitoantamgiac\baitoantamgiac\bin\Debug\baitoantamgiac.exe
+D:\bài tập\baitoantamgiac\baitoantamgiac\bin\Debug\baitoantamgiac.pdb
+D:\bài tập\baitoantamgiac\baitoantamgiac\obj\Debug\baitoantamgiac.csprojResolveAssemblyReference.cache
+D:\bài tập\baitoantamgiac\baitoantamgiac\obj\Debug\baitoantamgiac.Form1.resources
+D:\bài tập\baitoantamgiac\baitoantamgiac\obj\Debug\baitoantamgiac.Properties.Resources.resources
+D:\bài tập\baitoantamgiac\baitoantamgiac\obj\Debug\baitoantamgiac.csproj.GenerateResource.Cache
+E:\study\tri tue nhan tao\baitoantamgiac\baitoantamgiac\bin\Debug\baitoantamgiac.exe.config
+E:\study\tri tue nhan tao\baitoantamgiac\baitoantamgiac\obj\Debug\baitoantamgiac.exe
+E:\study\tri tue nhan tao\baitoantamgiac\baitoantamgiac\obj\Debug\baitoantamgiac.pdb
+E:\study\tri tue nhan tao\baitoantamgiac\baitoantamgiac\bin\Debug\baitoantamgiac.exe
+E:\study\tri tue nhan tao\baitoantamgiac\baitoantamgiac\bin\Debug\baitoantamgiac.pdb
+E:\study\tri tue nhan tao\baitoantamgiac\baitoantamgiac\obj\Debug\baitoantamgiac.csprojResolveAssemblyReference.cache
+E:\study\tri tue nhan tao\baitoantamgiac\baitoantamgiac\obj\Debug\baitoantamgiac.Form1.resources
+E:\study\tri tue nhan tao\baitoantamgiac\baitoantamgiac\obj\Debug\baitoantamgiac.Properties.Resources.resources
+E:\study\tri tue nhan tao\baitoantamgiac\baitoantamgiac\obj\Debug\baitoantamgiac.csproj.GenerateResource.Cache
+E:\study\tri tue nhan tao\bao cao\baitoantamgiac\baitoantamgiac\bin\Debug\baitoantamgiac.exe.config
+E:\study\tri tue nhan tao\bao cao\baitoantamgiac\baitoantamgiac\obj\Debug\baitoantamgiac.exe
+E:\study\tri tue nhan tao\bao cao\baitoantamgiac\baitoantamgiac\obj\Debug\baitoantamgiac.pdb
+C:\Users\THIS PC\OneDrive\Desktop\baitoantamgiac\baitoantamgiac\bin\Debug\baitoantamgiac.exe.config
+C:\Users\THIS PC\OneDrive\Desktop\baitoantamgiac\baitoantamgiac\bin\Debug\baitoantamgiac.exe
+C:\Users\THIS PC\OneDrive\Desktop\baitoantamgiac\baitoantamgiac\bin\Debug\baitoantamgiac.pdb
+C:\Users\THIS PC\OneDrive\Desktop\baitoantamgiac\baitoantamgiac\obj\Debug\baitoantamgiac.csproj.AssemblyReference.cache
+C:\Users\THIS PC\OneDrive\Desktop\baitoantamgiac\baitoantamgiac\obj\Debug\baitoantamgiac.Form1.resources
+C:\Users\THIS PC\OneDrive\Desktop\baitoantamgiac\baitoantamgiac\obj\Debug\baitoantamgiac.Properties.Resources.resources
+C:\Users\THIS PC\OneDrive\Desktop\baitoantamgiac\baitoantamgiac\obj\Debug\baitoantamgiac.csproj.GenerateResource.cache
+C:\Users\THIS PC\OneDrive\Desktop\baitoantamgiac\baitoantamgiac\obj\Debug\baitoantamgiac.csproj.CoreCompileInputs.cache
+C:\Users\THIS PC\OneDrive\Desktop\baitoantamgiac\baitoantamgiac\obj\Debug\baitoantamgiac.exe
+C:\Users\THIS PC\OneDrive\Desktop\baitoantamgiac\baitoantamgiac\obj\Debug\baitoantamgiac.pdb
+C:\Users\Admin\Downloads\baitoantamgiac\baitoantamgiac\bin\Debug\baitoantamgiac.exe.config
+C:\Users\Admin\Downloads\baitoantamgiac\baitoantamgiac\bin\Debug\baitoantamgiac.exe
+C:\Users\Admin\Downloads\baitoantamgiac\baitoantamgiac\bin\Debug\baitoantamgiac.pdb
+C:\Users\Admin\Downloads\baitoantamgiac\baitoantamgiac\obj\Debug\baitoantamgiac.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\baitoantamgiac\baitoantamgiac\obj\Debug\baitoantamgiac.Form1.resources
+C:\Users\Admin\Downloads\baitoantamgiac\baitoantamgiac\obj\Debug\baitoantamgiac.Properties.Resources.resources
+C:\Users\Admin\Downloads\baitoantamgiac\baitoantamgiac\obj\Debug\baitoantamgiac.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\baitoantamgiac\baitoantamgiac\obj\Debug\baitoantamgiac.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\baitoantamgiac\baitoantamgiac\obj\Debug\baitoantamgiac.exe
+C:\Users\Admin\Downloads\baitoantamgiac\baitoantamgiac\obj\Debug\baitoantamgiac.pdb
+C:\Users\Admin\Downloads\baitoantamgiac\baitoantamgiac\obj\Debug\baitoantamgiac.Form2.resources
+E:\TTNT_Nhóm05\ĐồÁn\baitoantamgiac\baitoantamgiac\bin\Debug\baitoantamgiac.exe.config
+E:\TTNT_Nhóm05\ĐồÁn\baitoantamgiac\baitoantamgiac\bin\Debug\baitoantamgiac.exe
+E:\TTNT_Nhóm05\ĐồÁn\baitoantamgiac\baitoantamgiac\bin\Debug\baitoantamgiac.pdb
+E:\TTNT_Nhóm05\ĐồÁn\baitoantamgiac\baitoantamgiac\obj\Debug\baitoantamgiac.csproj.AssemblyReference.cache
+E:\TTNT_Nhóm05\ĐồÁn\baitoantamgiac\baitoantamgiac\obj\Debug\baitoantamgiac.Form1.resources
+E:\TTNT_Nhóm05\ĐồÁn\baitoantamgiac\baitoantamgiac\obj\Debug\baitoantamgiac.Form2.resources
+E:\TTNT_Nhóm05\ĐồÁn\baitoantamgiac\baitoantamgiac\obj\Debug\baitoantamgiac.Properties.Resources.resources
+E:\TTNT_Nhóm05\ĐồÁn\baitoantamgiac\baitoantamgiac\obj\Debug\baitoantamgiac.csproj.GenerateResource.cache
+E:\TTNT_Nhóm05\ĐồÁn\baitoantamgiac\baitoantamgiac\obj\Debug\baitoantamgiac.csproj.CoreCompileInputs.cache
+E:\TTNT_Nhóm05\ĐồÁn\baitoantamgiac\baitoantamgiac\obj\Debug\baitoantamgiac.exe
+E:\TTNT_Nhóm05\ĐồÁn\baitoantamgiac\baitoantamgiac\obj\Debug\baitoantamgiac.pdb
+E:\TTNT_Nhóm05\ĐồÁn\baitoantamgiac\baitoantamgiac\bin\Debug\baitoantamgiac.exe.manifest
+E:\TTNT_Nhóm05\ĐồÁn\baitoantamgiac\baitoantamgiac\bin\Debug\baitoantamgiac.application
+E:\TTNT_Nhóm05\ĐồÁn\baitoantamgiac\baitoantamgiac\obj\Debug\baitoantamgiac.exe.manifest
+E:\TTNT_Nhóm05\ĐồÁn\baitoantamgiac\baitoantamgiac\obj\Debug\baitoantamgiac.application
